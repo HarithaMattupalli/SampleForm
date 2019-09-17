@@ -1,0 +1,33 @@
+body{
+  background-color: #ffffb3;
+}
+.p1{
+  margin-left: 1050px;
+  color:black;
+}
+h4{
+  color:red;
+}
+.row1{
+  color:#751aff;
+}
+.row2{
+  color:#751aff;
+}
+.head1{
+  margin-top:30px;
+  display: flex;
+  color:blue;
+}
+.head2{
+  display:flex;
+}
+.e1{
+  padding-bottom: 8px;
+  border-radius:5px;
+  border: 1px solid black;
+}
+.entrylist{
+  height: 400px;
+  overflow-y: scroll;
+}
